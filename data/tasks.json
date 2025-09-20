@@ -1,0 +1,22 @@
+{
+  "1sdads": {
+    "name": "1sdads",
+    "description": "adsdas",
+    "target_count": 2,
+    "current_count": 0,
+    "priority": "low",
+    "created_at": "2025-09-20T22:56:13.083632",
+    "completed_at": null,
+    "history": []
+  },
+  "собрать комп": {
+    "name": "собрать комп",
+    "description": "",
+    "target_count": 1,
+    "current_count": 0,
+    "priority": "high",
+    "created_at": "2025-09-20T23:10:35.711121",
+    "completed_at": null,
+    "history": []
+  }
+}
