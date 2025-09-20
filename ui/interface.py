@@ -30,9 +30,7 @@ class ShoriextUI:
         """
         self.console.print(ascii_art, style="bold blue")
         self.console.print("=" * 70, style="bold blue")
-        self.console.print(
-            "🎯 shoriext - Универсальная консольная утилита", style="cyan"
-        )
+        self.console.print("🎯 Консольная утилита", style="cyan")
         self.console.print("=" * 70, style="bold blue")
         self.console.print("")
 
